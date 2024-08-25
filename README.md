@@ -1,1 +1,1 @@
-# cfdnsupdate
+# DISCLAIMER - THIS WAS NOT TESTED FULLY
